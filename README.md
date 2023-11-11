@@ -1,2 +1,3 @@
 # Python-Projects
-Realtime Python Projects from Udemy
+Python Projects for Fun!
+Only for Educational Purpose.
