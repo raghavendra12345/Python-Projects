@@ -6,7 +6,7 @@ def kelvin_to_celsius_fahrenheit(kelvin):
     fahrenheit=celsius*(9/5)+32
     return celsius,fahrenheit   
 
-
+#create an account on openweather map and obtain your API key.
 BASE_URL="http://api.openweathermap.org/data/2.5/weather?"
 
 api_key='4eec62d032f2a79ed924d2e3ab12985a'
